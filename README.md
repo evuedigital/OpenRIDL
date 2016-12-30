@@ -1,2 +1,0 @@
-# OpenRIDL
-OpenRIDL
